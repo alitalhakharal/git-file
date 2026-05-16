@@ -1,0 +1,117 @@
+<html>
+<head>
+    <title>Ali Talha Kharal - Personal Webpage</title>
+</head>
+
+<body>
+
+<h1 align="center">ALI TALHA KHARAL</h1>
+<h2 align="center">BS Computer Science - UET KSK</h2>
+<hr>
+
+<h2>About Me</h2>
+<p>
+    My name is <b>Ali Talha Kharal</b>. I am studying <i>BS Computer Science</i> at 
+    <b>UET KSK</b>. I love programming, technology, gaming, and creating useful projects.
+</p>
+
+<hr>
+
+<h2>My Picture</h2>
+<img src="mypic.jpg" width="250" height="300">
+<p>Place mypic.jpg in same folder</p>
+
+<hr>
+
+<h2>My Skills</h2>
+<ul>
+    <li>Programming in C++</li>
+    <li>HTML & CSS</li>
+    <li>Problem Solving</li>
+    <li>Photo Editing</li>
+</ul>
+
+<hr>
+
+<h2>My Hobbies</h2>
+<ol>
+    <li>Gaming</li>
+    <li>Coding</li>
+    <li>Watching Tech Videos</li>
+</ol>
+
+<hr>
+
+<h2>My Social Accounts</h2>
+<a href="https://instagram.com">Instagram</a><br>
+<a href="https://youtube.com">YouTube</a><br><br>
+
+<h3>Click the image below to visit Google</h3>
+<a href="https://www.google.com">
+    <img src="google.png" width="200">
+</a>
+
+<hr>
+
+<h2>My Information Table</h2>
+<table border="1">
+    <tr>
+        <td><b>Name</b></td>
+        <td>Ali Talha Kharal</td>
+    </tr>
+    <tr>
+        <td><b>Department</b></td>
+        <td>BSCS</td>
+    </tr>
+    <tr>
+        <td><b>University</b></td>
+        <td>UET KSK</td>
+    </tr>
+</table>
+
+<hr>
+
+<h2>Time Table</h2>
+<table border="1">
+    <tr>
+        <td rowspan="3"><b>Monday</b></td>
+        <td>Programming</td>
+    </tr>
+    <tr>
+        <td>Maths</td>
+    </tr>
+    <tr>
+        <td>Discrete Structures</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><b>Break Time</b></td>
+    </tr>
+</table>
+
+<hr>
+
+<h2>My Favorite Game</h2>
+<table border="1">
+    <tr>
+        <td><img src="game.jpg" width="150"></td>
+        <td>My favorite game is GTA 5 because it is open world and fun.</td>
+    </tr>
+</table>
+
+<hr>
+
+<h2>Contact Me</h2>
+<form>
+    Name: <input type="text"><br><br>
+    Email: <input type="email"><br><br>
+    Message: <br>
+    <textarea rows="4" cols="30"></textarea><br><br>
+    <input type="submit" value="Send Message">
+</form>
+
+<hr>
+
+<h2 align="center">Thank You for Visiting My Webpage</h2>
+
+</body>
+</html>
