@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main(){
+cout<<"readme file is used to explain the project"<<endl;
+cout<<"it tell project information"<<endl;
+cout<<"it also contains github project details"<<endl;
+cout<<"readme file helps users understand the project"<<endl;
+return 0;
+}
